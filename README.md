@@ -11,4 +11,4 @@ cd src
 
 node app.js
 
-run the localhost:3000/list
+run localhost:3000/list from browser

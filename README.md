@@ -7,6 +7,8 @@ npm i express
 
 npm i request
 
+npm i @google-cloud/translate
+
 cd src
 
 node app.js
